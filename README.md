@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DirgantaraLubis
 - 👀 I’m interested in Quant Finance
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science & Finance
 - 📫 How to reach me tegardlubis28@gmail.com
 - 😄 Pronouns: Hi/Hi
 
